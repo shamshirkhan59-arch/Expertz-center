@@ -1,0 +1,6 @@
+{
+  "name": "Expertz Center — Enterprise IT & Infrastructure",
+  "description": "Official redesign and portal for Expertz Center, leading IT network consulting, hybrid cloud solutions, cybersecurity SOC, and enterprise compute infrastructure.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
